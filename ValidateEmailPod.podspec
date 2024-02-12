@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ValidateEmailPod'
-  s.version          = '1.0.1'
-  s.summary          = 'A short description of ValidateEmailPod.'
+  s.version          = '1.0.2'
+  s.summary          = 'Development Purpose, I want to create function to validate email is true or false. I want to make it reuseable and fast.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -38,6 +38,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
