@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ValidateEmailPod'
-  s.version          = '1.0.2'
-  s.summary          = 'Development Purpose, I want to create function to validate email is true or false. I want to make it reuseable and fast.'
+  s.version          = '1.0.3'
+  s.summary          = 'Validate email cocoapod is the awesome pod that you can validate email address'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: Development Purpose, I want to create function to validate email is true or false. I want to make it reuseable and fast. So now you don't worry anymore to write alot code. Good luck!!!'
                        DESC
 
   s.homepage         = 'https://github.com/Chithian/ValidateEmail-POD'
