@@ -1,0 +1,16 @@
+PODS:
+  - ValidateEmailPod (0.1.0)
+
+DEPENDENCIES:
+  - ValidateEmailPod (from `../`)
+
+EXTERNAL SOURCES:
+  ValidateEmailPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ValidateEmailPod: 1a372ecff36414891df795978fcc573048faa9f0
+
+PODFILE CHECKSUM: 9f7b68c0210585f2058905ccdd8bf9ad822ef1a7
+
+COCOAPODS: 1.15.2

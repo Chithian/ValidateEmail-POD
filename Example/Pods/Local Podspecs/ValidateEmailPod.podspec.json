@@ -1,0 +1,22 @@
+{
+  "name": "ValidateEmailPod",
+  "version": "0.1.0",
+  "summary": "A short description of ValidateEmailPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Chithian/ValidateEmailPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chithian": "chithiansamony@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Chithian/ValidateEmailPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ValidateEmailPod/Classes/**/*"
+}

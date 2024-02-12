@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ValidateEmailPod_Example' do
+  pod 'ValidateEmailPod', :path => '../'
+
+  target 'ValidateEmailPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

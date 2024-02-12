@@ -1,0 +1,6 @@
+framework module ValidateEmailPod {
+  umbrella header "ValidateEmailPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
