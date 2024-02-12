@@ -1,0 +1,12 @@
+
+ -> ValidateEmailPod -> ValidateEmailPod (1.0.0)
+    - WARN  | summary: The summary is not meaningful.
+    - ERROR | [iOS] file patterns: The `source_files` pattern did not match any file.
+    - NOTE  | xcodebuild:  note: Using codesigning identity override: -
+    - NOTE  | [iOS] xcodebuild:  note: Building targets in dependency order
+    - NOTE  | [iOS] xcodebuild:  note: Target dependency graph (3 targets)
+    - NOTE  | [iOS] xcodebuild:  note: Signing static framework with --generate-pre-encrypt-hashes (in target 'Pods-App' from project 'Pods')
+    - NOTE  | [iOS] xcodebuild:  note: Metadata extraction skipped. No AppIntents.framework dependency found. (in target 'App' from project 'App')
+
+[!] ValidateEmailPod did not pass validation, due to 1 error and 1 warning.
+You can use the `--no-clean` option to inspect any issue.
